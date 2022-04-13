@@ -1,6 +1,4 @@
 clear all
-clc
-close all
 load YA.mat;
 load rstrength.mat;
 data=YA;
