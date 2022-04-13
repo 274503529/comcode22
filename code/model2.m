@@ -1,5 +1,4 @@
 clear all
-clc
 load YA.mat;
 load strength.mat;
 data=YA;
