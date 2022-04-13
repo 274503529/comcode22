@@ -1,4 +1,4 @@
-# comcode22
+# code file
 %%there are two files as test scripts
 YA.mat
 strength.mat
